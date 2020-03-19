@@ -13,7 +13,7 @@ Psychological testing— also called psychological assessment and psychological 
 
 * **Writing items** - The item writer must be familiar with different types of items along with their advantages and disadvantages. He must also be aware of the characteristics of good items and the common probable errors in writing items.
 
-* **Experimental tryout and item analysis** - Experimental tryout helps in determining the difficulty level of each item, which in turn helps in their proper distribution in the final form.
+* **Experimental tryout** - Experimental tryout helps in determining the difficulty level of each item, which in turn helps in their proper distribution in the final form.
 
 * **Item synthesis** -  The items are selected after item analysis and constitute the test in the final form.
 
@@ -23,7 +23,7 @@ Psychological testing— also called psychological assessment and psychological 
 
 ## Conduct
 
-## scoring
+## Scoring
 
 ## Interpretation
 
