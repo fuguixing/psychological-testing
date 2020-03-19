@@ -1,10 +1,11 @@
-# psychological-testing
 
 ![License](https://img.shields.io/badge/license-APACHE-blue.svg)
 
+# Psychological testing
+
 Psychological testing— also called psychological assessment and psychological measurement — is the foundation of how psychologists better understand a person and their behavior. It is a process of problem solving for many professionals — to try and determine the core components of a person’s psychological or mental health problems, personality, IQ, or some other component
 
-## construct
+## Construct
 
 * **Objective** - The author has to spell out the broad and specific objectives of the test in clear terms. That is the prospective users (For example Vocational counselors, Clinical psychologists, Educationalists) and the purpose or purposes for which they will use the test.
  
@@ -20,13 +21,13 @@ Psychological testing— also called psychological assessment and psychological 
 
 * **Preparation of manual** -  In the manual the test constructor reports the psychometric properties of the test, norms and references.
 
-## conduct
+## Conduct
 
 ## scoring
 
-## interpretation
+## Interpretation
 
-## general scale
+## General scale
 
 [Open-Source Psychometrics Project](https://openpsychometrics.org/)
 
